@@ -5,8 +5,8 @@ target 'HotMovies_UTE' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-pod ‘Firebase/Auth’
-pod ‘Firebase/Database’
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
 pod 'MBProgressHUD', '~> 1.0.0'
 
   # Pods for HotMovies_UTE

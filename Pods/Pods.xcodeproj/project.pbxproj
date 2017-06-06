@@ -86,14 +86,14 @@
 		0EE8CFB45415ADAD051266B9899CF7FC /* Pods-HotMovies_UTETests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HotMovies_UTETests-acknowledgements.plist"; sourceTree = "<group>"; };
 		0F7AA392DB2F2E5612B9C223555CCBB6 /* GTMSessionFetcher.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GTMSessionFetcher.xcconfig; sourceTree = "<group>"; };
 		12073F17114234C2024B52152CDEA4CB /* Pods-HotMovies_UTETests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HotMovies_UTETests-umbrella.h"; sourceTree = "<group>"; };
-		134BEF6172ECC618C78B8747899AB977 /* MBProgressHUD.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MBProgressHUD.modulemap; sourceTree = "<group>"; };
+		134BEF6172ECC618C78B8747899AB977 /* MBProgressHUD.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MBProgressHUD.modulemap; sourceTree = "<group>"; };
 		15FCBEA66288D06AB08383D79A80F32D /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseAnalytics.framework; path = Frameworks/FirebaseAnalytics.framework; sourceTree = "<group>"; };
 		162D9999019AC481C585DC1F50BA25E7 /* Pods-HotMovies_UTE-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HotMovies_UTE-umbrella.h"; sourceTree = "<group>"; };
-		18CA9EBB90199CECD0E50DF4835047E4 /* Pods_HotMovies_UTEUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HotMovies_UTEUITests.framework; path = "Pods-HotMovies_UTEUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18CA9EBB90199CECD0E50DF4835047E4 /* Pods_HotMovies_UTEUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HotMovies_UTEUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		22E3C689F768E6CD56562A67BC57DE8F /* GTMNSData+zlib.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "GTMNSData+zlib.m"; path = "Foundation/GTMNSData+zlib.m"; sourceTree = "<group>"; };
 		237DFE83C0B208627CA406CC8F5E8ACE /* Pods-HotMovies_UTE-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HotMovies_UTE-dummy.m"; sourceTree = "<group>"; };
 		245A309688B6E812C14513C351FEE8B4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		259D2FABFC759AE3EC8CF80F1841EE6D /* GoogleToolboxForMac.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GoogleToolboxForMac.framework; path = GoogleToolboxForMac.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		259D2FABFC759AE3EC8CF80F1841EE6D /* GoogleToolboxForMac.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GoogleToolboxForMac.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		25A828B9A306D771F6A70CF7E498662F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		28737121097827FBC5C6168AC41BDE2C /* Pods-HotMovies_UTE-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HotMovies_UTE-resources.sh"; sourceTree = "<group>"; };
 		28C1A045124708C993ABDF9F9B961DBF /* FirebaseCoreDiagnostics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseCoreDiagnostics.framework; path = Frameworks/FirebaseCoreDiagnostics.framework; sourceTree = "<group>"; };
@@ -103,12 +103,12 @@
 		31C0AC6C3B61B5AF036A7463033F8307 /* Pods-HotMovies_UTE-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HotMovies_UTE-frameworks.sh"; sourceTree = "<group>"; };
 		31E2A43EF022563A79A9D2A60816ECE7 /* GTMSessionFetcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GTMSessionFetcher.m; path = Source/GTMSessionFetcher.m; sourceTree = "<group>"; };
 		3D0D9F9ED906D1AAA475631988053DFC /* MBProgressHUD-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD-umbrella.h"; sourceTree = "<group>"; };
-		3E8F2CDEFE225185C47DD98CE0098588 /* Pods-HotMovies_UTETests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-HotMovies_UTETests.modulemap"; sourceTree = "<group>"; };
+		3E8F2CDEFE225185C47DD98CE0098588 /* Pods-HotMovies_UTETests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HotMovies_UTETests.modulemap"; sourceTree = "<group>"; };
 		3FCA5585D2865296D160C7356101CBAA /* GTMMethodCheck.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GTMMethodCheck.h; path = DebugUtils/GTMMethodCheck.h; sourceTree = "<group>"; };
 		44839D984C76302DDB9F012AA353A70D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
 		44ACD24506B43F1AD815F4AA63FBA842 /* MBProgressHUD.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
 		459D572221A7518EA8894A7B35A96230 /* GoogleToolboxForMac-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GoogleToolboxForMac-prefix.pch"; sourceTree = "<group>"; };
-		48CB6226893E7FD0ACD856E72966A145 /* GTMSessionFetcher.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = GTMSessionFetcher.modulemap; sourceTree = "<group>"; };
+		48CB6226893E7FD0ACD856E72966A145 /* GTMSessionFetcher.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = GTMSessionFetcher.modulemap; sourceTree = "<group>"; };
 		48EFF4C6FC8CCD580A1B8D2B401110EB /* GoogleToolboxForMac-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GoogleToolboxForMac-umbrella.h"; sourceTree = "<group>"; };
 		4AF3917FF541BC651B539B5388A7FBD9 /* GTMSessionFetcher-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GTMSessionFetcher-dummy.m"; sourceTree = "<group>"; };
 		4EB740804EF6B9ADA0EB0E1690B0CF29 /* GoogleToolboxForMac.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GoogleToolboxForMac.xcconfig; sourceTree = "<group>"; };
@@ -117,7 +117,7 @@
 		5ECFBA60DB3B2650D36E85C54AEC69D8 /* Pods-HotMovies_UTETests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HotMovies_UTETests.release.xcconfig"; sourceTree = "<group>"; };
 		5F8294FFFD8D292F734806A977B7E49F /* GTMNSString+URLArguments.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "GTMNSString+URLArguments.m"; path = "Foundation/GTMNSString+URLArguments.m"; sourceTree = "<group>"; };
 		62189E59F643D52DA33F24FB7AC24283 /* Pods-HotMovies_UTE-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HotMovies_UTE-acknowledgements.markdown"; sourceTree = "<group>"; };
-		65341676603F6AD14900D44345B5B54A /* MBProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MBProgressHUD.framework; path = MBProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		65341676603F6AD14900D44345B5B54A /* MBProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MBProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		67F02888DC7E871292B8DCC41BF7EBAD /* Pods-HotMovies_UTEUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HotMovies_UTEUITests-umbrella.h"; sourceTree = "<group>"; };
 		6C812ECADA28FBC7608463F5C6A184AC /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseInstanceID.framework; path = Frameworks/FirebaseInstanceID.framework; sourceTree = "<group>"; };
 		71AADC773913CD2B2BF125F0DCA23A7A /* FirebaseAuth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseAuth.framework; path = Frameworks/FirebaseAuth.framework; sourceTree = "<group>"; };
@@ -133,34 +133,34 @@
 		87BAC7535E4C74774752407F7C5735D0 /* FirebaseDatabase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseDatabase.framework; path = Frameworks/FirebaseDatabase.framework; sourceTree = "<group>"; };
 		8BB5E9D97E2A98F14E9818C91B5A74BD /* GTMSessionFetcherService.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GTMSessionFetcherService.m; path = Source/GTMSessionFetcherService.m; sourceTree = "<group>"; };
 		932DD7ED12B7CDD33054886B1B0456B9 /* Pods-HotMovies_UTE.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HotMovies_UTE.release.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9451557A4F941C6C72150DE9F83B79DE /* MBProgressHUD.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
 		9750F7B30FB32EF12A3719ADCA680384 /* Pods-HotMovies_UTETests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HotMovies_UTETests-frameworks.sh"; sourceTree = "<group>"; };
 		9C4BF02D3F1E1FE2F15570161382613A /* GTMNSDictionary+URLArguments.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "GTMNSDictionary+URLArguments.m"; path = "Foundation/GTMNSDictionary+URLArguments.m"; sourceTree = "<group>"; };
 		9DA1FBE2554A6D9D4D8CC904BD73C86B /* GTMNSData+zlib.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "GTMNSData+zlib.h"; path = "Foundation/GTMNSData+zlib.h"; sourceTree = "<group>"; };
 		9E03BCBE2BA35C15B708848919BD1815 /* MBProgressHUD.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MBProgressHUD.xcconfig; sourceTree = "<group>"; };
 		9EE90B3C8E5FB7FF7F5ECA4E6DC53A9C /* MBProgressHUD-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD-dummy.m"; sourceTree = "<group>"; };
-		A08C57B0D51C6EFB0DAE2F4AE5CBC5F8 /* Pods_HotMovies_UTETests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HotMovies_UTETests.framework; path = "Pods-HotMovies_UTETests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A787C9A8F52880A770FB6E023CF0F4C1 /* GTMSessionFetcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GTMSessionFetcher.framework; path = GTMSessionFetcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A08C57B0D51C6EFB0DAE2F4AE5CBC5F8 /* Pods_HotMovies_UTETests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HotMovies_UTETests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A787C9A8F52880A770FB6E023CF0F4C1 /* GTMSessionFetcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GTMSessionFetcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A798A1795A3962641ED86BA9A51BF1CB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ABA14A712957CBD90748AC305110D654 /* GTMNSDictionary+URLArguments.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "GTMNSDictionary+URLArguments.h"; path = "Foundation/GTMNSDictionary+URLArguments.h"; sourceTree = "<group>"; };
 		ABDA2D3FE9A8ADFC60B0FF7C495BF481 /* Firebase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Firebase.h; path = Core/Sources/Firebase.h; sourceTree = "<group>"; };
 		AE85D60DC8EBD169819C2566D8BA2D77 /* Pods-HotMovies_UTEUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HotMovies_UTEUITests-resources.sh"; sourceTree = "<group>"; };
 		AEAEC33A54E350C70306748EBC2744B0 /* Pods-HotMovies_UTE-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HotMovies_UTE-acknowledgements.plist"; sourceTree = "<group>"; };
-		B48A3EC8615D6F8A3049848DE38772DF /* Pods_HotMovies_UTE.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HotMovies_UTE.framework; path = "Pods-HotMovies_UTE.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B48A3EC8615D6F8A3049848DE38772DF /* Pods_HotMovies_UTE.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HotMovies_UTE.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B55B4D3B5909314F39A9280457978133 /* Pods-HotMovies_UTEUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HotMovies_UTEUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BD8DA5EF827D15576DF869AEFA98F649 /* GTMSessionFetcherLogging.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GTMSessionFetcherLogging.m; path = Source/GTMSessionFetcherLogging.m; sourceTree = "<group>"; };
 		BE8ABC043A94E6667C82F5318D5ADBE2 /* FirebaseNanoPB.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseNanoPB.framework; path = Frameworks/FirebaseNanoPB.framework; sourceTree = "<group>"; };
 		C299BEDEC95160E4AB6C6A5BA78E92ED /* MBProgressHUD-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD-prefix.pch"; sourceTree = "<group>"; };
-		C57639144957CE83236CB45FCC1155AE /* Pods-HotMovies_UTE.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-HotMovies_UTE.modulemap"; sourceTree = "<group>"; };
-		C720CB58FFAF570A33B2A2683224D2C8 /* Pods-HotMovies_UTEUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-HotMovies_UTEUITests.modulemap"; sourceTree = "<group>"; };
+		C57639144957CE83236CB45FCC1155AE /* Pods-HotMovies_UTE.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HotMovies_UTE.modulemap"; sourceTree = "<group>"; };
+		C720CB58FFAF570A33B2A2683224D2C8 /* Pods-HotMovies_UTEUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HotMovies_UTEUITests.modulemap"; sourceTree = "<group>"; };
 		D0100BABB5B0BA2388126E6779356905 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D1A826366D28740BE20CF80856B6DFA6 /* GTMSessionFetcher-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GTMSessionFetcher-umbrella.h"; sourceTree = "<group>"; };
 		D23A8035149494DDF20B243D0C4C73A6 /* GTMDebugThreadValidation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GTMDebugThreadValidation.h; path = DebugUtils/GTMDebugThreadValidation.h; sourceTree = "<group>"; };
 		D693283829CEA567D31E9032B9C3C5FF /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		DE6C5CA392838AD28631B5D3E8B8A7B2 /* GTMDebugSelectorValidation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GTMDebugSelectorValidation.h; path = DebugUtils/GTMDebugSelectorValidation.h; sourceTree = "<group>"; };
 		E799C697C86A8E3C78B101E993EDE5AE /* Pods-HotMovies_UTE.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HotMovies_UTE.debug.xcconfig"; sourceTree = "<group>"; };
-		E8120C8402D00BE4AED171CB6CC61F33 /* GoogleToolboxForMac.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = GoogleToolboxForMac.modulemap; sourceTree = "<group>"; };
+		E8120C8402D00BE4AED171CB6CC61F33 /* GoogleToolboxForMac.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = GoogleToolboxForMac.modulemap; sourceTree = "<group>"; };
 		FB6CEFC087E2FE77E543BA551AE9DFE7 /* FirebaseCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseCore.framework; path = Frameworks/FirebaseCore.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -233,7 +233,6 @@
 				21F17418B14607FB66286CE8A324541E /* Core */,
 				EE9015320083677F5E88B09056DEF0DC /* Support Files */,
 			);
-			name = GTMSessionFetcher;
 			path = GTMSessionFetcher;
 			sourceTree = "<group>";
 		};
@@ -290,7 +289,6 @@
 			children = (
 				4131CA20B6E7BDB20DA0434B1080441A /* Frameworks */,
 			);
-			name = FirebaseInstanceID;
 			path = FirebaseInstanceID;
 			sourceTree = "<group>";
 		};
@@ -323,7 +321,6 @@
 			children = (
 				5ED10FAE8643A937CB21A854FFF8173A /* Frameworks */,
 			);
-			name = FirebaseAuth;
 			path = FirebaseAuth;
 			sourceTree = "<group>";
 		};
@@ -491,7 +488,6 @@
 			children = (
 				0C7494F2DF5D6E7E40D29FDE5A211D6F /* Core */,
 			);
-			name = Firebase;
 			path = Firebase;
 			sourceTree = "<group>";
 		};
@@ -505,7 +501,6 @@
 				42D4B6C7EE24A78680179A381A1E7EF1 /* NSString+URLArguments */,
 				AC53AE0E31A17F33F09F94D8803F4923 /* Support Files */,
 			);
-			name = GoogleToolboxForMac;
 			path = GoogleToolboxForMac;
 			sourceTree = "<group>";
 		};
@@ -514,7 +509,6 @@
 			children = (
 				2D57CE2F5EF87B2D07C7297872B8F6F5 /* Frameworks */,
 			);
-			name = FirebaseDatabase;
 			path = FirebaseDatabase;
 			sourceTree = "<group>";
 		};
@@ -536,7 +530,6 @@
 			children = (
 				1E8E672F56A63BC85E17EDE5E195DACB /* Frameworks */,
 			);
-			name = FirebaseAnalytics;
 			path = FirebaseAnalytics;
 			sourceTree = "<group>";
 		};
@@ -556,7 +549,6 @@
 				44ACD24506B43F1AD815F4AA63FBA842 /* MBProgressHUD.m */,
 				A9AC95E93CA3BEB256E858BD01912AD6 /* Support Files */,
 			);
-			name = MBProgressHUD;
 			path = MBProgressHUD;
 			sourceTree = "<group>";
 		};
@@ -565,7 +557,6 @@
 			children = (
 				8BBF4DA1B4EE0A32310E2E3E29BF36D1 /* Frameworks */,
 			);
-			name = FirebaseCore;
 			path = FirebaseCore;
 			sourceTree = "<group>";
 		};
@@ -761,7 +752,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0830;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -995,9 +986,11 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
@@ -1287,7 +1280,9 @@
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
